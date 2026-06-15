@@ -1,0 +1,8 @@
+.venv
+.vscode
+.env
+Figures
+My Papers
+data
+faiss_index
+results
